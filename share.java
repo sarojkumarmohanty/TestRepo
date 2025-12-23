@@ -1,3 +1,5 @@
 class Share{
-    //this is a share class
+    int a = 12;
+    int b= 2;
+
 }
