@@ -1,3 +1,5 @@
 class DemoFile{
-//some demo files
+ public int sum(){
+	 return add(x,y);
+ }
 }
