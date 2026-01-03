@@ -1,5 +1,5 @@
 class DemoFile{
- public int sum(){
-	 return add(x,y);
- }
+ public int add(int x, int y){
+   return x+y;
+  }
 }
